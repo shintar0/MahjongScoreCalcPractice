@@ -1,0 +1,2 @@
+[console_scripts]
+mscp = app:main
